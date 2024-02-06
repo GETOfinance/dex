@@ -24,9 +24,6 @@ DEX Flow Chat
 
 DEX Smart Contracts deployed on Testnet
 
-WTAREA deployed to: 0xB433a6F3c690D17E78aa3dD87eC01cdc304278a9
-https://areonscan.com/contracts/0xB433a6F3c690D17E78aa3dD87eC01cdc304278a9
-
 Dex Factory deployed to: 0x95ee06ec2D944B891E82CEd2F1404FBB8A36dA44
 https://areonscan.com/contracts/0x95ee06ec2D944B891E82CEd2F1404FBB8A36dA44
 
@@ -38,6 +35,9 @@ https://areonscan.com/contracts/0xC6dD53Fc5ddAEA85EdbFdD149784C0B3cA6AFbD3
 
 MultiCall deployed to: 0x10c9Ab23a88a17fe62687Df67895F1bC7f6ba05A
 https://areonscan.com/contracts/0x10c9Ab23a88a17fe62687Df67895F1bC7f6ba05A
+
+WTAREA deployed to: 0xB433a6F3c690D17E78aa3dD87eC01cdc304278a9
+https://areonscan.com/contracts/0xB433a6F3c690D17E78aa3dD87eC01cdc304278a9
 
 Dex Token deployed to: 0x18c9CbC1E055aBA2494Bc1d787436586EAca8456
 https://areonscan.com/contracts/0x18c9CbC1E055aBA2494Bc1d787436586EAca8456
